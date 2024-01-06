@@ -6,10 +6,10 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [0670934592
   ['94767939688', 'Dinuwa Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
-  [''] 
+  ['0670934592',true ] 
 ] //Number of owners
 
 global.mods = ['94767939688','94767939688'] 
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 darkeside-Tipla💝'
 global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
